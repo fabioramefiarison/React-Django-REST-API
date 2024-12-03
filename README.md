@@ -126,15 +126,7 @@ project/
 
 ## **Contributeurs**
 
-- **Votre nom** – *Développeur principal*  
+ 
 [fabio](https://github.com/fabioramefiarison)
 
----
 
-## **Licence**
-
-Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier et de le distribuer. Voir le fichier `LICENSE` pour plus de détails.
-
---- 
-
-Avec ce `README.md`, votre projet est bien documenté et facile à comprendre pour tout nouvel utilisateur ou contributeur. 😊
