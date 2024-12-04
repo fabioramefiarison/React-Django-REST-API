@@ -1,53 +1,17 @@
-body {
-  font-family: Arial, sans-serif;
+*{
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9;
-  color: #333;
+  box-sizing: border-box;
 }
 #app{
-  width: 60vw;
-  text-align: center;
-}
-h1, h2, h3 {
-  color: #444;
-}
-
-button {
-  background-color: #4caf50;
-  color: white;
-  border: none;
-  padding: 10px 15px;
-  border-radius: 5px;
-  cursor: pointer;
-  margin: 5px;
-  transition: background-color 0.3s ease;
-}
-
-button:hover {
-  background-color: #45a049;
-}
-
-form {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  max-width: 400px;
-  margin: 20px auto;
-  padding: 20px;
-  background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-input {
+  border: 1px solid aqua;
   padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
+  width: 800px;
+  height: 400px;
+  position: relative;
+  top: 10%;
+  left: 30%;
 }
-
-ul {
-  list-style-type: none;
-  padding: 0;
+#app li{
+  list-style: none;
 }

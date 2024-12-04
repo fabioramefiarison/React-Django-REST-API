@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import UpdateUser from './UpdateUser';
-import '.././styles/UserList.css';
+
 
 
 const UserList = () => {
